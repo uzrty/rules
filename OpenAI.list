@@ -1,5 +1,6 @@
-DOMAIN-KEYWORD,openai
+DOMAIN,cdn.auth0.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,identrust.com
