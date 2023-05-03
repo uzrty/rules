@@ -97,9 +97,9 @@ DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,www.google
-IP-CIDR,173.194.0.0/16,no-resolve
-IP-CIDR,74.125.0.0/16,no-resolve
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
+IP-CIDR,173.194.0.0/16,no-resolve
+IP-CIDR,74.125.0.0/16,no-resolve
